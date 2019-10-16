@@ -1,0 +1,19 @@
+{
+  "options": [
+    { "name": "inicio" },
+    {
+      "name": "juegos",
+      "games": [
+        "fallout",
+        "fallout 2",
+        "fallout tactics",
+        "fallout 3",
+        "fallout 4",
+        "fallout 76"
+      ]
+    },
+    { "name": "galería" },
+    { "name": "power armor" },
+    { "name": "regístrate" }
+  ]
+}
